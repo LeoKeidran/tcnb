@@ -47,3 +47,28 @@ Without text skip, New Blood would be insalely long (looking at you Trauma Team)
 * As the operation loads in, before the "Operation Begins" prompt finishes, ensure you start Text Skip.
 
 An Episode Select Skip, or commonly known as an ESS, is performed after every operation with one exception. Each episode has post-operation dialogue after you get the score. The only operation you shouldn't perform an ESS on is 5-6, which you should mark with an asterisk ( * ) on your splits. To perform an ESS, after the transition from the score card, hit plus ( + ) to pause, then select Episode Select, and YES.
+
+### Gel and Bandages
+
+The gel in New Blood was completely overhauled since the previous games, meaning that it is much more reliable. As such, you should be gelling the incision every time, given that if you don't you are very, very likely to miss. For membranes, small cuts, minor hemorrhages and holes, you can slather the gel across these without worry that it may not be effective.
+For the bandage, as long as it covers approximately 40% of the incision you should be okay (this can vary wildly as I have observed some bandages that should have missed but counted, and vice versa). That being said, if you miss, it will cause 3 vitals to be dropped and you can kill the patient with this, so be sure to be more careful if the patient is very low. You **don't** want to gel before the bandage (except in 1-1) as it is much slower.
+
+### Posture, Stretching, and Breaks
+
+Since you're pointing a Wiimote for over an hour, it's important to ensure you are comfortable and that your hand is stable and well supported so that you are relaxed. Each runner has their own preferred posture and way to sit during runs, however they all share one key concept. You want to support your wrist (and forearm) as best you can. This ensures your hand is naturally stable, and that the cursor isn't shaking when you are just aiming to hold it still at a given point on the screen. For me personally, I use a blanket between my lower thighs/knees as this adds some padding/cushioning, as well as a foot-rest. I ahve seen other runners sit with their arms in a sort of inward V facing the screen with their forearms resting over their thighs, and other runners place it at the very top of their thighs near their hip. Find whatever is comfortable for you!
+Following on from this, it's **very** important to stretch, to give your hand time to relax. Mid-run there are opportunities to stretch your hands out and ensure they do not cramp up. Nearly every operation with a few exceptions have 30 seconds of dialogue, and some upwards of 60 seconds. I highly recommend [this video](https://youtu.be/EiRC80FJbHU) from Dr Levi. It covers a lot of important stretches, and how to loosen up your hands too.
+When you're on the grind to get a new time it's easy to forget to take breaks. If you don't, you are near guaranteed to give yourself Repeatitive Strain Injury (RSI). Just give yourself a few minutes to allow your muscles to relax, and your joints to ease up, plus you're less likely to get tilted too! This is especially important during practice. Operations such as 2,5 6-5, and 6-6 are notable strenuous. Don't allow yourself to play the same operation over and over and over for more than 20 minutes without stopping for two minutes at least.
+
+
+### Vitals
+Given that the game revolves around healing patient and keeping them alive, it may come as a surprise that in the speedrun environment we avoid vital boosting. Simply put, it takes up precious time that we could be using to deal with the patient's condition. It varies per operation of course and if I was to list out a set of numbers, it would be stupidly long and be near useless to go over it all as you wouldn't remember it. But learning when to not boost the vitals will mean you're not wasting time. With time, you can get a feel for this.
+On the contrary however, if you are sitting around waiting, for example your tool has burnt out, or you are waiting for an animation or cycle, boosting the vtials up while you wait is a good use of your time. Don't let this go too far when you are boosting vitals into the time you could be spending to finish the operation. Prime examples of this include:
+* Waiting for the next phase of Brachion
+* Waiting for Soma to reappear
+* Waiting for the drain to come back on 4-3
+
+### Region Differences
+
+Running the game in Japanese saves around 20-30 seconds across the entire run compared to English. However, if you own an NTSC-U copy of New Blood, you can also run the game in Japanese if you have access to a HomeBrew Launcher that can alter the console language. With this all said, running in JP isn't necessary, and isn't critical to start running this game (or any of the other Trauma Center games). Let me stress: **this is not critical. Just because you have a PAL/NTSC-U (without HomeBrew) copy does not mean you shouldn't try.**
+
+For refernce, it is still possible to close into a time of around 1:35:00 comfortably without worrying about localisation. It is just common that after improving your time and investing yourself into the game for long enough, that having a JP or NTSC-J copy of the game is likely, and not a requirement.
