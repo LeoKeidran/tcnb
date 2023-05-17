@@ -70,4 +70,4 @@ Keep in mind that this op is pretty strenuous and is likely the first op where y
 
 ---
 
-[Main Page](../index.md) | [Chapter 2](chp2.md) →
+← [Chapter 1](./chp1.md) | [Main Page](../index.md) | [Chapter 3](./chp3.md) →
