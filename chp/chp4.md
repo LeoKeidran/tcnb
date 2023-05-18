@@ -51,12 +51,31 @@ After the heart massage, immediately pop Val's Healing Touch, and begin to clean
 
 ## 4-4 [V]
 
+The first aneurysm only needs around a third of a syringe to prepare it for extraction. <br>
+After this has been dealt with, pull a full syringe, and inject the large aneurysm that spawns centre-left: <br>
+![](img/4-4_largeAneurysm.png) <br>
+Getting the angle on these connecting pieces can be tricky, so like with bone fragments you should aim to rotate your wrist before you pick them up. Suturing them can also be awkward, so aim to do larger sutures across the general arm of each part. <br>
+With the first large aneurysm dealt with, you should be able to get one full stabiliser boost in before the dialogue cuts you off. <br>
+![](img/4-4_pairAneurysms.png) <br>
+After the dialogue break, pull a full syringe of sedative, and be ready to inject into the above two aneurysms that spawn. After this, pan far left to be able to deal with the smaller aneurysm: <br>
+![](img/4-4_panLeft.png) <br>
+Note that this smaller aneurysm takes nearly a full dose, and the cutting outline for it will be larger than others given it has inflated. <br>
+Before panning over right, pop Val's Healing Touch, then move over so that the other small aneurysm is in view: <br>
+![](img/4-4_midSmall.png) <br>
+Deal with this aneurysm, and allow the larger one on the left to burst. With this dealt with you can now pan over to the final three aneurysms. These will burst in order of top, bottom, left. <br>
+![](img/4-4_lastAneurysms.png) <br>
 
+As with the previous aneurysm op (3-5), you should inject multiple aneurysms at once, and cut them out collectively, but from there you should process them individually, this way you don't move your cursor around quite so much. <br>
+All large aneurysms with the exception of the second to last (bottom right after HT) will need to be rotated clockwise. The mentioned tumour is the exception and will need a small rotation counter-clockwise (to the left). <br>
+When placing the joining pieces for these large aneurysms, it's better to take a moment to ensure it is lined up properly, than rush and panic in an attempt to go fast, and then have to re-seat it. Take your time! <br>
 
 ## 4-5 [V]
 
+***Please follow the Ops Advice found under [Stigma - Ops](../stigma/ops.md) for this operation. The below is operation specific advice.*** <br>
 
+Given how samey Ops is across any operation, there is nothing really to note here. <br>
+Just keep in mind that for this op, there is no incision. You are launched head-first to deal with Ops inside of the patient. <br>
 
 ---
 
-← [Chapter 3](./chp3.md) | [Main Page](../index.md) | [Chapter 5](./chp5.md) →
+← [Chapter 3](chp3.md) | [Main Page](../index.md) | [Chapter 5](chp5.md) →
