@@ -5,7 +5,7 @@
 
 ## 6-1
 
-Do not forget to switch back to ***Normal*** in the event you did the last three ops of Chapter 5 on Hard. <br>
+Do not forget to switch back to ***Normal*** in the event you did the last four operations of Chapter 5 on Hard. <br>
 
 ***Please follow the Brachion Advice found under [Stigma - Onyx](../stigma/onyx.md) for this operation. The below is operation specific advice.*** <br>
 
@@ -20,7 +20,7 @@ You can do this operation with, and without Markus' Healing Touch, though if you
 *With HT*: From the moment you load inside of the patient, you'll want to drain the top left tumours. You then want to cut it out, and extract it. But do not apply a membrane. Pop Markus' HT and then deal with the left most tumours.Then deal with the far left tumour. The bottom middle tumour should begin to flash, meaning you can also extract this. While waiting for the last tumour to flash to blue, place the membranes onto empty holes, and then finish up the last tumour and gel it all up. <br>
 ![](img/6-2_HT.gif) <br>
 
-*Without HT*: This strat is much tighter, but applies the theory that you do not want to place membranes until the end. Start with the top left tumour, then the bottom right. From there, deal with the bottom left, middle left, top middle, and finally top right tumour. If you fumble the first tumour, it will re-flash back to blue by the time you extract the last tumour. <br>
+*Without HT*: This strat is much tighter, but applies the theory that you do not want to place membranes until the end. Start with the top right tumour, then the bottom right. From there, deal with the bottom left, bottom middle, top middle, and finally top right tumour. If you fumble the first tumour, it will re-flash back to blue by the time you extract the last tumour. <br>
 ![](img/6-2_noHT.gif) <br>
 
 ## 6-3 [V]
@@ -68,7 +68,7 @@ Unlike 2-5, these burns are very prone to worsening. As such, there is a particu
 ![](img/6-5_burnsOrder.png) <br>
 This is critical to ensure you do not end up with an extra 3rd degree burn which requires coolant. <br>
 When trying to place membranes on the bottom right most burn, be careful to not go too quickly, as you are likely to place the membrane on the wrong burn otherwise due to overlapping hitboxes. You should also drain *all* of the blood, for the same reason. <br>
-Apart from this changed placement method, you should follow the same techniques advised in [2-5](chp2.md#2-5). <br>
+Apart from this changed placement method, you should follow the same techniques advised in [2-5](chp2.md#2-5-v). <br>
 
 The second patient starts with lots of blood pools and bullet holes that need patching. <br>
 Note that the two bullet holes on the left side still have the pellets. Depending on your speed, you can either remove these two, and patch them up, and then drain the rest and patch up, *or* you can remove those two pellets, then drain all the blood and put down the membranes collectively. This can be a bit risky if you aren't up to speed. <br>
@@ -91,7 +91,7 @@ From here there are five hidden cuts: <br>
 ![](img/6-5_hiddenCuts.png) <br>
 These hidden cuts do 6 vital damage each, so you'll need a minimum of 30 vitals at this stage if you want to cut all of them. You should tackle these in pairs ideally. <br>
 
-The fourth patient is a variation of [2-3](chp2.md#2-3), so much of the same will apply. <br>
+The fourth patient is a variation of [2-3](chp2.md#2-3-v), so much of the same will apply. <br>
 On the outside of the patient, you can drain some of the blood collectively as it overlaps. You should also suture before you gel to reduce extra steps. <br>
 Inside of the patient, suture the two lacerations, and then pull out all the bone fragments. Be careful doing this, as with each fragment you pull there will be blood spawning, and it can be hard to see which direction to pull them out. Remember that the order in which you extract them will be the same order you set them down. <br>
 ![](img/6-5_boneAngles.png) <br>
