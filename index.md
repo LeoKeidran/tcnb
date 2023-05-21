@@ -11,8 +11,8 @@ Each chapter has its own page, as well as each Stigma strain to help you keep ea
 * [Chapter 3](chp/chp3.md)
 * [Chapter 4](chp/chp4.md)
 * [Chapter 5](chp/chp5.md)
-* [Chapter Z](chp/chpZ.md)
 * [Chapter 6](chp/chp6.md)
+* [Chapter 7](chp/chp7.md)
 
 ### Stigma Guides
 * [Cheir](stigma/cheir.md)
