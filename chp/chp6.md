@@ -7,7 +7,7 @@
 
 Do not forget to switch back to ***Normal*** in the event you did the last four operations of Chapter 5 on Hard. <br>
 
-***Please follow the Brachion Advice found under [Stigma - Onyx](../stigma/onyx.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Brachion Advice found under [Stigma - Brachion](../stigma/brachion.md) for this operation. The below is operation specific advice.*** <br>
 
 Given this is the introductory operation for Brachion, generally you have a little more time compared to other operations with Brachion in. <br>
 That being said, all the same advice applies. I would highly recommend using this op as practice to improve your Brachion strats. <br>

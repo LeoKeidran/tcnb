@@ -6,7 +6,7 @@
 ## 4-1
 
 The first half of this op is pretty straight forward. The injection takes about three quarters of a syringe. <br>
-Note that with the appendix tie offs, the optimal way to use them is to pull them towards the bottom left of the screen, to the tool wheel. <br
+Note that with the appendix tie offs, the optimal way to use them is to pull them towards the bottom left of the screen, to the tool wheel. <br>
 ![](img/4-1_tiesAngle.png) <br>
 For the second patient, once you are inside pop Markus' HT immediately. <br>
 Next, drain all the pus, and inject the serum into the appendix. Once you cut out the appendix, you may find that pus will spawn. You will need to drain this before you put the ties on, and remove the appendix fully. <br>

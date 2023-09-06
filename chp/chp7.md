@@ -53,7 +53,7 @@ This op is relatively straight forward, but does require additional care. It is 
 At the very start of the operation, pop Markus' Healing Touch, this is to prevent the pins in the next phase from event activating. <br>
 Extract the chips from the centre on the first part, this should be a straight forward extraction as the sparks should keep out the way with HT active. <br>
 ![](img/7-3_chipExtract.gif) <br>
-On the next phase, be careful when removing these pins. They are varying lengths but the important part is to take them out completely straight: <br
+On the next phase, be careful when removing these pins. They are varying lengths but the important part is to take them out completely straight: <br>
 ![](img/7-3_pins.png) <br>
 With the pins out, on the final phase, you need to be mindful of the moving sparks. Taking this segment slower than you might want to is advised until you are 100% comfortable. <br>
 This can be done relatively safely by following this path. Just note that it does close off, but other routes are available. Be flexible and do not commit to a path that is too narrow. <br>

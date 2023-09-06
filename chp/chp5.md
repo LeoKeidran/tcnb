@@ -31,7 +31,7 @@ Unlike in 5-2, when you load into the patient you won't have a defib to start yo
 You should deal with these on "sides", so clean up the left three cuts. Before you move to the right side, ensure you drain each blood pool on the packing area at least once. This will aid you in the second patch up. <br>
 ![](img/5-3_drainBlood.gif) <br>
 On the right, again, cut out each hidden cut, drain everything and suture it all up. Be mindful to angle your sutures here given the precision needed for this hidden cuts. <br>
-![](img/5-2_membranes.gif) <br
+![](img/5-2_membranes.gif) <br>
 If a bloodpool spawns in the middle of the packing process, be ready to drain it, and replace any membranes that might fall. If you are very unlucky you may end up having to defib the patient. If done optimally and following the drain method mentioned above this shouldn't happen. <br>
 
 Keep in mind after the op, you'll need to mash through the map before you can ESS.
