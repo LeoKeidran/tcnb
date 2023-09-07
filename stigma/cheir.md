@@ -1,5 +1,5 @@
 
-# Stigma - Cheir [Concealed Blades]
+# Stigma - Cheir [The Hand]
 
 [Back to Main Page](../index.md)
 
@@ -14,8 +14,11 @@ Cheir heavily relies on your laser management and accuracy to be able to effecti
 Cheir comes in three variations (excluding the Mature/Fused variant), each with different attacks. There is no way to differentiate them physically, only by their attacks, or if you know the wave you are on for that particular patient. <br>
 Keeping Cheir off the organ, or in a stun lock will prevent them from attacking. This is notably important in 6-6 when the vitals are rather low. <br>
 
-If you hear a scream, that means a tumour has been created in the location that Cheir dove at. Inheriently this isn't too bad, but too many tumours can quickly become a problem with the DPS. <br>
+As Cheir goes to make a tumour, it will spin in place. Once this has started you cannot interrupt the animation. You will then hear a scream, as an audible reminder to you. Inheriently this isn't too bad, but too many tumours can quickly become a problem with the DPS. <br>
 If you are getting tumours, this is likely due to the fact that Cheir isn't being stun-locked for long enough when it is roaming around. <br>
+
+There is also an additional type of Cheir, which can make large lacerations. This only occurs in 7-2. Similar to the tumour spawning variant, this type will dive into the organ, and upon resurfacing they will create a large laceration. If this occurs, do not ignore it. <br>
+The vital damage from this large laceration will hit all at once when it spawns, and then it will also tick the vitals down rather quickly due to the high DPS. <br>
 
 ## Laser Management
 
