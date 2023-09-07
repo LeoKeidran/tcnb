@@ -17,7 +17,7 @@ That being said, all the same advice applies. I would highly recommend using thi
 Getting a feel for the timings of these flashing tumours can be rather painful. <br>
 You can do this operation with, and without Markus' Healing Touch, though if you are not 100% comfortable with your ability to tool switch fast enough, I would recommend using HT.
 
-*With HT*: From the moment you load inside of the patient, you'll want to drain the top left tumours. You then want to cut it out, and extract it. But do not apply a membrane. Pop Markus' HT and then deal with the left most tumours.Then deal with the far left tumour. The bottom middle tumour should begin to flash, meaning you can also extract this. While waiting for the last tumour to flash to blue, place the membranes onto empty holes, and then finish up the last tumour and gel it all up. <br>
+*With HT*: From the moment you load inside of the patient, you'll want to drain the top left tumour. You then want to cut it out, and extract it. But do not apply a membrane. Pop Markus' HT and then deal with the right most tumours. Then deal with the far left tumour. The bottom middle tumour should begin to flash, meaning you can also extract this. While waiting for the last tumour to flash to blue, place the membranes onto empty holes, and then finish up the last tumour and gel it all up. <br>
 ![](img/6-2_HT.gif) <br>
 
 *Without HT*: This strat is much tighter, but applies the theory that you do not want to place membranes until the end. Start with the top right tumour, then the bottom right. From there, deal with the bottom left, bottom middle, top middle, and finally top right tumour. If you fumble the first tumour, it will re-flash back to blue by the time you extract the last tumour. <br>
@@ -46,7 +46,7 @@ After the defib, deal with the cluster of three blood pools and pellets: <br>
 Note that all of these pellets can be extracted after one blood pool drain. You should deal with these as a cluster, rather than individually due to the overlapping hitboxes. <br>
 From there, you now will want to deal with the pellets on the left. To play it safe, you should deal with just two pellets. The faster you get, the more pellets you can clean up at once. <br>
 
-*With Extra Defib*: You can tell you will get an extra defib on this op, as when the heart begins to convulse, after a moment you will get an extra dialogue box (with Elena on it). This means you must wait until the defib appears. Pull back on the Wiimote in this time. <br>
+*With Extra Defib*: You can tell if you will get an extra defib on this op when the heart begins to convulse, after a moment you will get an extra dialogue box (with Elena on it). This means you must wait until the defib appears. Pull back on the Wiimote in this time. <br>
 The moment you finish the defib, pop Val's Healing Touch, and clean up the other pellets (if applicable). <br>
 
 *Without Extra Defib*: When the heart convulses, it will suddenly stop and Val will appear with a text box. You can then immediately pop Val's Healing Touch, and continue the cleanup. <br>

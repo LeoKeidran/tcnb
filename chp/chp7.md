@@ -41,7 +41,7 @@ Soma may occasionally drop red tumours. Be sure to laser these to ensure that th
 With Cheir out the picture, focus on Soma like you would normally. <br>
 
 Inside the their patient, you should ignore Soma until Onyx has been defeated. <br>
-Onyx will **always** be located under Soma right at the start: <br>
+Onyx will **always** be located under Soma right at the start, you do not need to ultrasound it to reveal: <br>
 ![](img/7-2_onyxLocation.png) <br>
 Keep in mind that Soma will occasionally drop red tumours, which need to be looked after during the operation. It's critical to do this else the vitals will drop further. <br>
 Between hits on Onyx, you should do a few boosts, given that the webbing phase does damage, and Soma will also do damage on core exposure. <br>
@@ -84,6 +84,8 @@ Wave Order: <br>
 5. x2 Red / x3 Blue
 6. x3 Red / x1 Blue / x1 Yellow
 7. x2 Red / x2 Blue / x1 Yellow <br>
+
+These colours are in randomised locations from wave 3 onward. Only wave 1 and 2 and consistent. <br>
 
 Note that by the fifth wave, the syringe will go to the yellow stage of durability (meaning <50% is left). This is common, and means you will need to be mindful with each injection to cause it to be "burnt-out" or unavailable. If you are unsure, do not inject if the syringe is in the red. <br>
 If you are opting to use Val's Healing Touch, you should pop her HT after wave 4. <br>

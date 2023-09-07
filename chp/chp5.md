@@ -39,7 +39,7 @@ Keep in mind after the op, you'll need to mash through the map before you can ES
 ## 5-4 [Hard]
 
 First thing to note about this operation is you should play it on ***Hard.*** <br>
-This is due to the reduced timings for Onxy's apperances.
+This is due to the reduced timings for Onyx's apperances.
 
 ***Please follow the Onyx Advice found under [Stigma - Onyx](../stigma/onyx.md) for this operation. The below is operation specific advice.*** <br>
 
@@ -62,7 +62,7 @@ You should continue to play on ***Hard*** for the same benefits listed in 5-4. <
 
 ***Please follow the Onyx Advice found under [Stigma - Onyx](../stigma/onyx.md) for this operation. The below is operation specific advice.*** <br>
 
-Much like in 5-4, you should mash the ultrasound to find Onyx quickly, especially as there is no music queue to let you know you have found it. <br>
+Much like in 5-4, you should mash the ultrasound to find Onyx quickly, especially as there is no music cue to let you know you have found it. <br>
 
 This is the only op where hitting text-skip after the operation is faster than to perform an ESS. <br>
 

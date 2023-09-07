@@ -56,7 +56,7 @@ A full syringe can't deal with all three inflammations here, so upon taking out 
 Doing it this way means you must then instantly select the ultrasound, hit A to confirm the prompt, and pan down. <br>
 Again, deal with the two tumours first, followed by the inflammations. There are a little overlap on the hitboxes: <br>
 ![](/img/1-5_secondTumours.png) <br>
-Be mindful when panning left, as you don't want to overlap the vial over the inflammations and block them off. An ideal placement looks something like this: <br>
+Be mindful when panning right, as you don't want to overlap the vial over the inflammations and block them off. An ideal placement looks something like this: <br>
 ![](/img/1-5_inflammations.png) <br>
 Once these have been dealt with, pan up, and extract the tumour that is located below. Make sure to deal with this before you deal with the last set of inflammations. <br>
 ![](/img/1-5_finalTumour.png)

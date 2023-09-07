@@ -36,13 +36,13 @@ The first three tumours will spawn mini-tumours upon extraction. These can cause
 After you gel the membranes, there is a small delay before you can move the view, so do a small boost. This can be a little tricky to achieve at first, but the extra vitals you can give you a larger buffer. <br>
 Pan the view up so that the very top blood pool sits at the vital bar, and then expose the three tumours here: <br>
 ![](img/4-3_secondTumours.png) <br>
-When dealing with these tumours it's important to **not** place membranes done. Your goal here is to get to the drain failure as soon as possible. <br>
+When dealing with these tumours it's important to **not** place membranes down. Your goal here is to get to the drain failure as soon as possible. <br>
 The fastest way to do this is to then expose the two tumours that spawn in between this triangle of the existing tumours: <br>
 ![](img/4-3_thirdTumours.ong) <br>
 The moment you try to drain one of these tumours, the timer will begin. From there it will take just over 20 seconds before the drain is back. This gives you time to fully deplete the syringe to boost the vitals up, and expose the remaining tumours. You may need to pan the camera to do this, but you will want to pan it back up when you are done: <br>
 ![](img/4-3_fourthTumours.png) <br>
 An easy way to count down how long you have left until the drain is back is to fully deplete the syringe, and then when it has returned, continue to boost until it reaches orange durability, nearly red. This isn't a 100% consistent way to determine how long you have left, but will help with getting an idea of how long this period is. <br>
-If you are feeling riskier, you can laser some of the mini-tumours that span, but be warned that the vitals will quickly drop if there are too many of these. <br>
+If you are feeling risky, you can laser some of the mini-tumours that spawn in, but be warned that the vitals will quickly drop if there are too many of these. <br>
 To ensure you select the drain the moment is is free again, you should lock your nunchuck stick into the right-down diagonal to select it the moment it is given back to you. <br>
 Once the drain is back, you want to drain all the blood in the upper area of the organ where the three tumours are/were. Next, drain the two tumours, and remove them. Your goal is to place at least two membranes before the heart massage cancels your inputs. This can be incredible tricky, and if you aren't quite up to speed, you'll want to ensure the vitals are high enough that the patient doesn't die while they undero fibrillation. <br>
 It is possible to apply gel onto these membranes while the patient is fibrillating but you risk dropping the vitals excessively. Depending on how much mess there is, the vitals can drop by 15 vitals or more in this time alone. <br>
