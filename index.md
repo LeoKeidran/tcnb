@@ -1,5 +1,5 @@
 
-![](logo.png)
+![](logo.png){:id: .headerImage}
 ## Introduction
 This guide is aimed to provide insight and guidance on the techniques and strategies employed while speedrunning TCNB. This is aimed towards those who have played the game, however would like further details on how to improve.
 Each chapter has its own page, as well as each Stigma strain to help you keep each area digestible.
