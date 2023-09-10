@@ -33,7 +33,7 @@ Patient 3 has Soma and Onyx. <br>
 
 If you are reasonably comfortable with each strain, then this op will be relatively straight forward. The main issue comes from overlapping timers and letting things get out of hand. <br>
 
-Brachion in this op is nearly no different from the previous encounter in 6-3. All the same techniques apply, just be wary as you will encounter more short-arm branches. <br>
+Brachion in this op is nearly no different from the previous encounter in [6-3](chp6.md#6-3-v). All the same techniques apply, just be wary as you will encounter more short-arm branches. <br>
 
 For the second patient, you will want to activate Markus' Healing Touch the moment you are inside the patient. <br>
 Focus Cheir until you have completely cleared it. Note that the waves are as follows: two cheir, two cheir, and one extra once one dies in the previous wave. <br>

@@ -65,7 +65,7 @@ Before panning over right, pop Val's Healing Touch, then move over so that the o
 Deal with this aneurysm, and allow the larger one on the left to burst. With this dealt with you can now pan over to the final three aneurysms. These will burst in order of top, bottom, left. <br>
 ![](img/4-4_lastAneurysms.png) <br>
 
-As with the previous aneurysm op (3-5), you should inject multiple aneurysms at once, and cut them out collectively, but from there you should process them individually, this way you don't move your cursor around quite so much. <br>
+As with the previous aneurysm op ([3-5](chp3.md#3-5-v)), you should inject multiple aneurysms at once, and cut them out collectively, but from there you should process them individually, this way you don't move your cursor around quite so much. <br>
 All large aneurysms with the exception of the second to last (bottom right after HT) will need to be rotated clockwise. The mentioned tumour is the exception and will need a small rotation counter-clockwise (to the left). <br>
 When placing the joining pieces for these large aneurysms, it's better to take a moment to ensure it is lined up properly, than rush and panic in an attempt to go fast, and then have to re-seat it. Take your time! <br>
 

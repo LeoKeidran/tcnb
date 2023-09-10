@@ -57,15 +57,15 @@ For the bandage, as long as it covers approximately 40% of the incision you shou
 
 Since you're pointing a Wiimote for over an hour, it's important to ensure you are comfortable and that your hand is stable and well supported so that you are relaxed. Each runner has their own preferred posture and way to sit during runs, however they all share one key concept. You want to support your wrist (and forearm) as best you can. This ensures your hand is naturally stable, and that the cursor isn't shaking when you are just aiming to hold it still at a given point on the screen. For me personally, I use a blanket between my lower thighs/knees as this adds some padding/cushioning, as well as a foot-rest. I have seen other runners sit with their arms in a sort of inward V facing the screen with their forearms resting over their thighs, and other runners place it at the very top of their thighs near their hip. Find whatever is comfortable for you!
 Following on from this, it's **very** important to stretch, to give your hand time to relax. Mid-run there are opportunities to stretch your hands out and ensure they do not cramp up. Nearly every operation with a few exceptions has 30 seconds of dialogue, and some upwards of 60 seconds. I highly recommend [this video](https://youtu.be/EiRC80FJbHU) from Dr Levi. It covers a lot of important stretches, and how to loosen up your hands too.
-When you're on the grind to get a new time it's easy to forget to take breaks. If you don't, you are near guaranteed to give yourself Repetitive Strain Injury (RSI). Just give yourself a few minutes to allow your muscles to relax, and your joints to ease up, plus you're less likely to get tilted too! This is especially important during practice. Operations such as 2,5 6-5, and 6-6 are notable strenuous. Don't allow yourself to play the same operation over and over and over for more than 20 minutes without stopping for two minutes at least.
+When you're on the grind to get a new time it's easy to forget to take breaks. If you don't, you are near guaranteed to give yourself Repetitive Strain Injury (RSI). Just give yourself a few minutes to allow your muscles to relax, and your joints to ease up, plus you're less likely to get tilted too! This is especially important during practice. Operations such as [2-5](chp/chp2.md#2-5-v], [6-5](chp/chp6.md#6-5-v), and [6-6](chp/chp6.md#6-6) are notable strenuous. Don't allow yourself to play the same operation over and over and over for more than 20 minutes without stopping for two minutes at least.
 
 
 ### Vitals
 Given that the game revolves around healing patient and keeping them alive, it may come as a surprise that in the speedrun environment we avoid vital boosting. Simply put, it takes up precious time that we could be using to deal with the patient's condition. It varies per operation of course and if I was to list out a set of numbers, it would be stupidly long and be near useless to go over it all as you wouldn't remember it. But learning when to not boost the vitals will mean you're not wasting time. With time, you can get a feel for this.
 On the contrary however, if you are sitting around waiting, for example your tool has burnt out, or you are waiting for an animation or cycle, boosting the vitals up while you wait is a good use of your time. Don't let this go too far when you are boosting vitals into the time you could be spending to finish the operation. Prime examples of this include:
-* Waiting for the next phase of Brachion
-* Waiting for Soma to reappear
-* Waiting for the drain to come back on 4-3
+* Waiting for the next phase of [Brachion](stigma/brachion.md)
+* Waiting for [Soma](stigma/soma.md) to reappear
+* Waiting for the drain to come back on [4-3](chp/chp4.md#4-3-v)
 
 ### Region Differences
 

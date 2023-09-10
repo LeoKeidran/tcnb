@@ -31,11 +31,11 @@ This operation is ***three*** Stigma patients back to back. <br>
 The first patient is Soma. <br>
 Unlike the first appearance of Soma, you do not get a phase that doesn't have additional masses you need to drain at the start. Additionally, red tumours will drop earlier into the op, so keep this in mind. <br>
 
-The second patient is Brachion, and will be very similar to 6-1. <br>
+The second patient is Brachion, and will be very similar to [6-1](chp6.md#6-1). <br>
 Don't rush through this patient. As long as vitals are high enough it you shouldn't have to worry about killing the patient, but it can be a big sink hole of time if you fumble a lot. If you are struggling, use 6-1 as practice. <br>
 
 The third patient is Ops. <br>
-Unlike the first appearance, you will need to open the patient up. Otherwise, it is essentially the same as 4-5. <br>
+Unlike the first appearance, you will need to open the patient up. Otherwise, it is essentially the same as [4-5](chp4.md#4-5-v]. <br>
 
 ## 6-4 [V]
 
