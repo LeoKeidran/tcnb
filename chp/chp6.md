@@ -35,7 +35,7 @@ The second patient is Brachion, and will be very similar to [6-1](chp6.md#6-1). 
 Don't rush through this patient. As long as vitals are high enough it you shouldn't have to worry about killing the patient, but it can be a big sink hole of time if you fumble a lot. If you are struggling, use 6-1 as practice. <br>
 
 The third patient is Ops. <br>
-Unlike the first appearance, you will need to open the patient up. Otherwise, it is essentially the same as [4-5](chp4.md#4-5-v]. <br>
+Unlike the first appearance, you will need to open the patient up. Otherwise, it is essentially the same as [4-5](chp4.md#4-5-v). <br>
 
 ## 6-4 [V]
 
@@ -75,7 +75,7 @@ Note that the two bullet holes on the left side still have the pellets. Dependin
 ![](img/6-5_pulletsOutside.png) <br>
 The incision line will appear a little late, as the membranes must disapppear fully. <br>
 Inside the patient, you should work left to right, tackling each affected area until they are fully dealt with before you move onto the next thing. This removes excessive cursor movements. <br>
-The bullet on the left here is much like in 1-3, however there is no heart failure during the process. <br>
+The bullet on the left here is much like in [1-3](chp1.md#1-3), however there is no heart failure during the process. <br>
 Keep in mind that each step of any bullet extraction will require a drain. <br>
 The only pellet in this area of the organ that needs cutting is the top right one. <br>
 ![](img/6-5_insidePellets.png) <br>
