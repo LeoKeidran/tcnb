@@ -111,7 +111,7 @@ Finally deal with the last few haemorrhages with gel. If at any point you feel t
 
 Trying to use the speedrun tech here can feel incredible difficult, as there are three timers essentially that overlap. But, with some practice and understanding you'll get there. <br>
 
-***Please follow the Cheir, and Onyx Advice found under [Stigma - Cheir](../stigma/cheir.md), and [Onyx]](../stigma/onyx.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Cheir, and Onyx Advice found under [Stigma - Cheir](../stigma/cheir.md), and [Onyx](../stigma/onyx.md) for this operation. The below is operation specific advice.*** <br>
 
 There are no entry incisions to these patients, meaning when you start, you'll be launched right into the patient to begin the transplant. <br>
 There is a lot of information to go over, so I will mostly focus on the general approach given it relies on your Stigma knowledge for both Cheir and Onyx. <br>
