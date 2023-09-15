@@ -1,5 +1,5 @@
 
-# Stigma - Cheir [The Hand]
+# Stigma - Cheir [Hand]
 
 [Back to Main Page](../index.md)
 
