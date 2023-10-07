@@ -3,7 +3,7 @@
 
 [Back to Main Page](../index.md)
 
-***This advice applies to all Operations that involve Ops.*** <br>
+***This advice applies to all Operations that involve Onyx.*** <br>
 
 On it's own, Onyx poses very little threat, and effective removal relies purely on keeping track of it as it moves. And given it moves only in a straight line, generally speaking it is one of the easiest Stigma strains inthe game. <br>
 
